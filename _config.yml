@@ -67,3 +67,8 @@ kramdown:
 
 redcloth:
   hard_breaks: true
+
+comments:
+  provider: disqus
+disqus:
+  short_name: xiaoyiqingz
